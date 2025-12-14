@@ -1,0 +1,1 @@
+This repository documents my learning and hands-on understanding of I²C, I³C, SPI, UART communication protocols, along with analog and digital pin functionality in microcontrollers. These concepts are fundamental for embedded systems design and hardware–software integration.
